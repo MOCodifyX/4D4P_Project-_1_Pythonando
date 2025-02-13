@@ -3,12 +3,12 @@ from enum import Enum
 
 class Bancos(Enum):
     NUBANK = 'Nubank'
-    SANTANDER = 'Santader'
+    SANTANDER = 'Santander'
     INTER = 'Inter'
 
 class Status(Enum):
     ATIVO = 'Ativo'
-    INATIVO ='Inativo'
+    INATIVO = 'Inativo'
 
 class Conta(SQLModel, table=True):
     id: int = Field(primary_key=True)
