@@ -1,4 +1,4 @@
-# 🚀 Primeiro projeto do 4 Days 4 Projects da Pythonando 🚀
+# 🚀Evento 4 Days 4 Projects da Pythonando🚀
 
 ---
 
