@@ -4,6 +4,16 @@
 
 ## 📌 Projeto 1 - Python Puro
 
+ 🔹Para rodar o projeto, antes de executar, exclua o banco de dados atual [database.db](http://database.db) para que um novo arquivo seja criado!
+
+ 🔹Para iniciar o projeto, execute o seguinte comando:
+
+    python template.py
+
+ 🔹Siga as instruções no terminal para utilizar as funcionalidades do projeto.
+    
+---
+
 Funcionalidades
 
 - [1] 📝 Criar conta → Registra uma nova Conta (limite de 1 conta por banco)
