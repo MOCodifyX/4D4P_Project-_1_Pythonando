@@ -6,11 +6,13 @@
 
  🔹Para rodar o projeto, antes de executar, exclua o banco de dados atual [database.db](http://database.db) para que um novo arquivo seja criado!
 
- 🔹Para iniciar o projeto, execute o seguinte comando:
+ 🔹Para iniciar o projeto, execute os seguintes comandos:
 
-    python template.py
+	python models.py
 
- 🔹Siga as instruções no terminal para utilizar as funcionalidades do projeto.
+	python template.py
+
+ 🔹Siga as instruções no terminal para utilizar as funcionalidades do projeto. (Começe com a opção 1 -> Crie sua primeira conta em um dos bancos)
     
 ---
 
